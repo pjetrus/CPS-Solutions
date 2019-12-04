@@ -1,0 +1,22 @@
+{
+  "name": "cps-solutions",
+  "version": "1.0.0",
+  "description": "Open source project to explore Cyber-Physical Systems  solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjetrus/CPS-Solutions.git"
+  },
+  "author": "pjetrus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjetrus/CPS-Solutions/issues"
+  },
+  "homepage": "https://github.com/pjetrus/CPS-Solutions#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
